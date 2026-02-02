@@ -2,7 +2,7 @@
 
 #### Special Variables ####
 echo "All args passed to script: $@"
-echo "Number of vars passed to script: $#"
+echo "Number of variables passed to script: $#"
 echo "Script name: $0"
 echo "Present directory: $PWD"
 echo "Who is running: $USER"
